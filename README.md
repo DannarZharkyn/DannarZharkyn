@@ -14,15 +14,15 @@ My work spans student wellbeing platforms, a delivery robot prototype, multi-age
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-18181B?style=flat&logoColor=F2B8C6) ![C++](https://img.shields.io/badge/C%2B%2B-18181B?style=flat&logoColor=F2B8C6) ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat&logoColor=F2B8C6) ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat&logoColor=F2B8C6) ![Java](https://img.shields.io/badge/Java-18181B?style=flat&logoColor=F2B8C6)
+`Python` `C++` `TypeScript` `JavaScript` `Java`
 
 **Web & platforms**
 
-![React](https://img.shields.io/badge/React-18181B?style=flat&logoColor=F2B8C6) ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat&logoColor=F2B8C6) ![HTML](https://img.shields.io/badge/HTML-18181B?style=flat&logoColor=F2B8C6) ![CSS](https://img.shields.io/badge/CSS-18181B?style=flat&logoColor=F2B8C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat&logoColor=F2B8C6) ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat&logoColor=F2B8C6) ![Firebase](https://img.shields.io/badge/Firebase-18181B?style=flat&logoColor=F2B8C6)
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Supabase` `Firebase`
 
 **Robotics, embedded & simulation**
 
-![Arduino](https://img.shields.io/badge/Arduino-18181B?style=flat&logoColor=F2B8C6) ![ESP8266](https://img.shields.io/badge/ESP8266-18181B?style=flat&logoColor=F2B8C6) ![Android Studio](https://img.shields.io/badge/Android_Studio-18181B?style=flat&logoColor=F2B8C6) ![Pygame](https://img.shields.io/badge/Pygame-18181B?style=flat&logoColor=F2B8C6)
+`Arduino` `ESP8266` `Android Studio` `Pygame`
 
 Systems modeling · Multi-agent systems · Sensor integration · User-centered design · Product prototyping
 
@@ -64,7 +64,7 @@ An interactive traffic simulation exploring driver behaviors and adaptive traffi
 
 Have an idea that brings software, hardware, and people together? Let’s connect.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F2B8C6?style=flat&logoColor=18181B)](https://dannarzharkyn.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat&logoColor=F2B8C6)](https://www.linkedin.com/in/dannarzharkyn/)
-[![Email](https://img.shields.io/badge/Email-18181B?style=flat&logoColor=F2B8C6)](mailto:DannarZharkyn@gmail.com)
+[Portfolio](https://dannarzharkyn.github.io/)
+[LinkedIn](https://www.linkedin.com/in/dannarzharkyn/)
+[Email](mailto:DannarZharkyn@gmail.com)
 
