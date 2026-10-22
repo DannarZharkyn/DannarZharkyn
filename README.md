@@ -8,4 +8,4 @@ I’m a Systems Engineering MS candidate at Boston University with experience in
 
 [Portfolio](https://dannarzharkyn.github.io/) · [LinkedIn](https://www.linkedin.com/in/dannarzharkyn/) · [Email](mailto:DannarZharkyn@gmail.com)
 
-I’m always curious about new ideas, interesting problems, and opportunities to build something meaningful. Let’s connect!
+I’m always curious about new ideas and interesting problems! Let’s connect!
